@@ -1,0 +1,17 @@
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\bin\Debug\netcoreapp2.1\PinyinDemo.deps.json
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\bin\Debug\netcoreapp2.1\PinyinDemo.runtimeconfig.json
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\bin\Debug\netcoreapp2.1\PinyinDemo.runtimeconfig.dev.json
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\bin\Debug\netcoreapp2.1\PinyinDemo.dll
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\bin\Debug\netcoreapp2.1\PinyinDemo.pdb
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.csprojAssemblyReference.cache
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.csproj.CoreCompileInputs.cache
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.AssemblyInfoInputs.cache
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.AssemblyInfo.cs
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.dll
+c:\users\greed\source\repos\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.pdb
+D:\Code\NameToPinYin-C-\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.csprojAssemblyReference.cache
+D:\Code\NameToPinYin-C-\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.csproj.CoreCompileInputs.cache
+D:\Code\NameToPinYin-C-\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.AssemblyInfoInputs.cache
+D:\Code\NameToPinYin-C-\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.AssemblyInfo.cs
+D:\Code\NameToPinYin-C-\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.dll
+D:\Code\NameToPinYin-C-\PinyinDemo\PinyinDemo\obj\Debug\netcoreapp2.1\PinyinDemo.pdb
