@@ -50,8 +50,11 @@ namespace PinyinDemo
         /// <returns>转换后的拼音</returns>
         public static string GetNamePinYin(string name, string dbHost, string redisConnect, string cachePrefix)
         {
-            //初始化字典集
-            dictionary = ReadPinYinConfiguration();
+            //校验姓名是否为空，如果为空，直接抛错
+            if (string.IsNullOrWhiteSpace(name))
+            {
+                throw new ArgumentNullException(nameof(name));
+            }
             //只有一个字符
             if (name.Length == 1)
             {
